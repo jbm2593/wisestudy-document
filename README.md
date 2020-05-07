@@ -9,4 +9,4 @@
 ## Environment
 
 **System Architecture**
-![system_architecture]()
+![system_architecture](/image/system_architecture.png)
