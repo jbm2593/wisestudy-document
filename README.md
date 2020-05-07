@@ -36,7 +36,7 @@
 
 - **Server, Machine Learning Developers**
   - *Kim, Mun-seong*: 없어
-  - *Kim, T*:
+  - *Kim, Taek-youn*: [Blog](https://taxijjang.tistory.com), [GitHub](https://github.com/taxijjang)
   - *Oh, Jin-seon*: [Blog](https://ohjinjin.github.io/), [GitHub](https://github.com/ohjinjin)
   - *Jeon, By*:
   
