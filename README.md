@@ -24,7 +24,9 @@
 - **Specify Process**
   - Machine Learning: Scikit-learn (with. Collaboration Filtering Algorithm)
 
-#### Members
+---
+
+### Members
 
 - **Android Developers**
   - *Lee, Woon-gi*: [Blog](https://mynamewoon.tistory.com/manage/posts), [GitHub](https://github.com/leewoongi)
