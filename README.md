@@ -37,7 +37,7 @@
 - **Server, Machine Learning Developers**
   - *Kim, Mun-seong*: 없어
   - *Kim, T*:
-  - *Oh, Jin*:
+  - *Oh, Jin-seon*: [Blog](https://ohjinjin.github.io/), [GitHub](https://github.com/ohjinjin)
   - *Jeon, By*:
   
 - **UI/UX Designer**
