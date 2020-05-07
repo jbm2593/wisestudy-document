@@ -10,3 +10,11 @@
 
 **System Architecture**
 ![system_architecture](/images/system_architecture.png)
+
+- **Client**: Android SDKs, Retrofit
+- **Server**
+    - Web Server: Nginx x.x.x
+    - Web Application Framework: Django x.x.x
+    - Database: MySQL x.x.x
+- **Specify Process**
+    - Machine Learning: Scikit-learn (with. Collaboration Filtering Algorithm)
