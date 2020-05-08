@@ -30,6 +30,7 @@
 
 **Software Stack**
 ![software stack](/images/software_stack.png)
+
 ---
 
 ### Members
