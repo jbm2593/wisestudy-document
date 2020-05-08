@@ -28,6 +28,8 @@
 - **Specify Process**
   - Machine Learning: Scikit-learn (with. Collaboration Filtering Algorithm)
 
+**Software Stack**
+![software stack](/images/software_stack.png)
 ---
 
 ### Members
