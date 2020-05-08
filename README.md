@@ -38,7 +38,7 @@
 - **Android Developers**
   - *Lee, Woon-gi*: [Blog](https://mynamewoon.tistory.com/manage/posts), [GitHub](https://github.com/leewoongi)
   - *Lee, dong*:
-  - *Hong, jong*:
+  - *Hong, jong-hyun*: [Blog](https://comcompu.tistory.com/), [GitHub](https://github.com/jonghyunH)
   - *Cho, gyu*:
 
 - **Server, Machine Learning Developers**
