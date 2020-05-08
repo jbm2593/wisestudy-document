@@ -45,7 +45,7 @@
   - *Kim, Mun-seong*: 없어
   - *Kim, Taek-youn*: [Blog](https://taxijjang.tistory.com), [GitHub](https://github.com/taxijjang)
   - *Oh, Jin-seon*: [Blog](https://ohjinjin.github.io/), [GitHub](https://github.com/ohjinjin)
-  - *Jeon, By*:
+  - *Jeon, By*:[Blog](https://byeongmoo.tistory.com/), [GitHub](https://github.com/jbm2593)
   
 - **UI/UX Designer**
   - *Kim, Si-yeong*: [GitHub](https://github.com/C022)
