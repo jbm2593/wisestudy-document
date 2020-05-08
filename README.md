@@ -48,4 +48,4 @@
   - *Jeon, By*:[Blog](https://byeongmoo.tistory.com/), [GitHub](https://github.com/jbm2593)
   
 - **UI/UX Designer**
-  - *Kim, Si-yeong*: [GitHub](https://github.com/C022)
+  - *Kim, Si-Young*: [GitHub](https://github.com/C022)
